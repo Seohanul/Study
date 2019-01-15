@@ -1,0 +1,15 @@
+
+서버 개요, 
+https://www.slideshare.net/ssuser052dd11/igc-2017
+
+
+언리얼 document
+http://api.unrealengine.com/KOR/Gameplay/Networking/Server/index.html
+
+서버 종류
+https://namu.wiki/w/데디케이티드%20서버
+
+
+
+Network component, framework
+http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf

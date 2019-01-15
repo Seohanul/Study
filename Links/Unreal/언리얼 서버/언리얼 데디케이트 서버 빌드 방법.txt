@@ -1,0 +1,36 @@
+
+공식 빌드 방식
+
+https://wiki.unrealengine.com/Dedicated_Server_Guide_(Windows_%26_Linux)#5._Building_the_server
+
+
+
+
+언리얼 빌드방식
+
+언리얼 소스 클론 받아서 (버전 맞게) 
+
+빌드한후에
+
+실행해서
+
+프로젝트 런처 - 윈도우 서버 - developement- by the book  
+
+클라는  windowsnoeditor
+
+
+***** vs 15 툴킷 다운받아야함
+
+
+
+
+빌드하면 saved - stagedbuilds-맞는파일 - exe
+
+바로가기 만들고
+
+server 에서는 맵이름?listen -log
+
+클라에서는 -windowed resx=400 resy=400
+
+
+해주면됨

@@ -1,0 +1,21 @@
+모바일 셋업 공식 문서
+http://api.unrealengine.com/KOR/Platforms/Android/GettingStarted/index.html
+
+
+
+보면서 따라하기 좋은 기본 셋팅
+https://www.youtube.com/watch?v=cRhjTD7FIuI
+
+
+
+모바일 widget UI 튜토리얼
+https://www.youtube.com/watch?v=IJ9ksz7Te8w
+
+
+
+
+모바일 튜토리얼 모음
+https://www.youtube.com/watch?v=zLWV866RDvo&list=PLttFH_i0EaDmzuR_-xGbVh__rxJmknPTt
+
+
+
