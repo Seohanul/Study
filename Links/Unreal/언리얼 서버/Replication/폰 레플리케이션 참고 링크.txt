@@ -1,0 +1,12 @@
+
+
+*** 매우 중요 ***   폰레플리케이션 하는법
+
+
+1. 멀티캐스트 이용 - 너무 렉걸리는듯
+https://www.youtube.com/watch?v=WFAy5nYWCRE
+
+
+
+2. 더 간단한 방법 - 서버에서 액터의 포지션 바꿔줌 **** ( 더 간단하고 렉도 안걸림 )
+https://www.youtube.com/watch?v=-rA_h0fY9As
